@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\query_string-6932084\\query_string-6932084\\cookiesquery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|solutionrelative:query_string-6932084\\cookiesquery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\query_string-6932084\\query_string-6932084\\productconfirmcookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|solutionrelative:query_string-6932084\\productconfirmcookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\query_string-6932084\\query_string-6932084\\productconfirmcookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|solutionrelative:query_string-6932084\\productconfirmcookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\query_string-6932084\\query_string-6932084\\cookiesquery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{90B280D1-A196-42AB-9FB2-8D4EFF58F92E}|Query_String-6932084\\Query_String-6932084.csproj|solutionrelative:query_string-6932084\\cookiesquery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductConfirmCookies.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\ProductConfirmCookies.aspx.cs",
+              "RelativeDocumentMoniker": "Query_String-6932084\\ProductConfirmCookies.aspx.cs",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\ProductConfirmCookies.aspx.cs",
+              "RelativeToolTip": "Query_String-6932084\\ProductConfirmCookies.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:39:55.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConfirmCookies.aspx",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\ProductConfirmCookies.aspx",
+              "RelativeDocumentMoniker": "Query_String-6932084\\ProductConfirmCookies.aspx",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\ProductConfirmCookies.aspx",
+              "RelativeToolTip": "Query_String-6932084\\ProductConfirmCookies.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T04:39:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CookiesQuery.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\CookiesQuery.aspx.cs",
+              "RelativeDocumentMoniker": "Query_String-6932084\\CookiesQuery.aspx.cs",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\CookiesQuery.aspx.cs",
+              "RelativeToolTip": "Query_String-6932084\\CookiesQuery.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:38:21.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CookiesQuery.aspx",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\CookiesQuery.aspx",
+              "RelativeDocumentMoniker": "Query_String-6932084\\CookiesQuery.aspx",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Query_String-6932084\\Query_String-6932084\\CookiesQuery.aspx",
+              "RelativeToolTip": "Query_String-6932084\\CookiesQuery.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T04:28:21.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
