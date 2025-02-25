@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-                                    <p>
+            <p>
                 <asp:Label ID="Label1" runat="server" Text="Category"></asp:Label>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <asp:DropDownList ID="ddlCategory" runat="server">

@@ -17,23 +17,12 @@ namespace Query_String_6932084
         protected void btnConfirm_Click(object sender, EventArgs e)
         {
 
-            // Save the cookies.
-            Response.Cookies["ddlCategory"].Value = ddlCategory.SelectedValue;
-            Response.Cookies["ddlSupplier"].Value = ddlSupplier.SelectedValue;
-            Response.Cookies["strProduct"].Value = txtProduct.Text;
-            Response.Cookies["strDescription"].Value = txtDescription.Text;
-            Response.Cookies["strImage"].Value = txtImage.Text;
-            Response.Cookies["decPrice"].Value = txtPrice.Text;
-            Response.Cookies["bytNumberInStock"].Value = txtNumberInStock.Text;
-            Response.Cookies["bytNumberOnOrder"].Value = txtNumberOnOrder.Text;
-            Response.Cookies["bytReorderLevel"].Value = txtReorderLevel.Text;
-            // Go to the confirmation page.
-            Response.Redirect("ProductConfirmCookies.aspx");
+           
 
             // Go to the confirmation page with the encoded URL.
             Response.Redirect
                 (
-                    "ProductConfirmQueryStrings.aspx" +
+                    "ProductConfirmCookies.aspx" +
                     "?ddiCategory=" + ddlCategory.SelectedValue +
                     "&ddiSupplier=" + ddlSupplier.SelectedValue +
                     "&strProduct=" + txtProduct.Text +
